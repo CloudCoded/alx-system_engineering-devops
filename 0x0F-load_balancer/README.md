@@ -24,4 +24,4 @@ Here are the implementation specifications
   * [2-puppet_custom_http_response_header.pp](./2-puppet_custom_http_response_header.pp): Bash script that
   Just as in task #0, we’d like you to automate the task of creating a custom HTTP header response, but with Puppet.
     * The name of the custom HTTP header must be X-Served-By
-    * The value of the custom HTTP header must be the hostname of the server Nginx is running onr
+    * The value of the custom HTTP header must be the hostname of the server Nginx is running on
