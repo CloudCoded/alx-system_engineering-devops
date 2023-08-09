@@ -94,19 +94,4 @@ Among the litany of data your monitoring service can report to you are system me
 ---
 
 ## Author
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-* **Jenaide Sibolie** - [Jenaide](https://github.com/Jenaide)webstack-monitoring
+* **Abdulazeez Akindolapo** - [CloudCoded](https://github.com/CloudCoded)webstack-monitoring
