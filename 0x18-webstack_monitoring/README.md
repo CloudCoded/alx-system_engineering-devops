@@ -94,4 +94,4 @@ Among the litany of data your monitoring service can report to you are system me
 ---
 
 ## Author
-* **Abdulazeez Akindolapo** - [CloudCoded](https://github.com/CloudCoded)webstack-monitoring
+* **Abdulazeez Akindolapo** - [CloudCoded](https://github.com/CloudCoded)
